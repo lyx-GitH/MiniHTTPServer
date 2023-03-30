@@ -6,4 +6,4 @@
 ### How to play
 - Run the program on a computer
 - on a browser, type \<IP\>:5804 to access the page. You may see a picture and a login form
-- The correct account and password is written in ```utils.h```
+- The correct account and password is written in ```utils.h```, since this is a course project and thus does not involve any safety issues.
